@@ -1,3 +1,3 @@
 # README
 
-Repository for MPP Thesis
+Repository for MPP Thesis on Political Finance Regulations
