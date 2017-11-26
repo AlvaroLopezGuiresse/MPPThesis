@@ -1,0 +1,47 @@
+---
+title: "Waste Lands - America's forgotten nuclear legacy"
+author: Philipp Ottolinger
+output: 
+  flexdashboard::flex_dashboard:
+    theme: journal
+    social: menu
+    source_code: embed
+---
+
+```{r setup, include = FALSE}
+library(flexdashboard)
+library(shiny)
+library(jsonlite)
+library(maptools)
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+library(purrr)
+library(leaflet)
+library(plotly)
+
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### All sites and their current status
+
+```{r}
+
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Number of sites
+
+```{r}
+```
+
+### Sites on campus
+
+```{r}
+                              
+```
